@@ -1,4 +1,4 @@
-# Emploment-Scam
+# Employment-Scam
 Download dataset here The Recruitment Scam Dataset contains 17,880 real-life job ads that aims at providing a clear picture of the Employment Scam problem to the research community.The records are annotated and classified into two categories. More specifically, the dataset contains 17,014 legitimate and 866 fraudulent job ads published between 2012 to 2014. The dataset has 18 columns, namely:
 
 1.title
