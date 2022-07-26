@@ -12,15 +12,27 @@ Download dataset here The Recruitment Scam Dataset contains 17,880 real-life job
 5.company_profile
 
 6.description
+
 7.requirement
+
 8.benefits
+
 9.telecommuting
+
 10.has_company_logo
+
 11.has_questions
+
 12.employment_type
+
 13.required_experience
+
 14.required_education
+
 15.industry
+
 16.function
+
 17.fradulent
+
 18.in_balanced_dataset
